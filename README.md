@@ -157,6 +157,9 @@ plt.imshow(result,cmap='gray')
 
 
 <img width="566" height="355" alt="download" src="https://github.com/user-attachments/assets/5b6e672c-3fbb-4dfc-ae59-210533c7be66" />
+
+
+
 ### EYE DETECTION :
 
 
